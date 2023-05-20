@@ -11,20 +11,11 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/radostin-stoychev-53197014a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:radostinv.stoychev@gmail.com">
+  <a href="mailto:f1renix00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/radrex1">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/8540759/radrex?tab=profile">
+  <a href="https://stackoverflow.com/users/21890533/stoyan-tsiparov">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://codepen.io/radrex">
-    <img src="https://img.shields.io/badge/CodePen-3D3D3D?style=for-the-badge&logo=CodePen&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
