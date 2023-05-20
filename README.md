@@ -6,6 +6,7 @@
   A C# developer in making from Gotse Devchev, Bulgaria.
 </h3>
 <img align="right" alt="Coding" width="1000" src="https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+<p></p>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=stoyantsiparov&show_icons=true&count_private=true&theme=darcula" width="350"></a>
 </p>
