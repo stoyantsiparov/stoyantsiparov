@@ -39,7 +39,7 @@
 
 <h3>About me 👻:</h3>
 
-- 💻 Working on becoming a full-stack developer.
+- 💻 Working on becoming a C# developer.
 - 💬 Ask me anything about my projects!
 - 📫 How to reach me: f1renix00@gmail.com
 - 💡 I'm really passionate about all sorts of technology, trying to learn and try something new everyday.
