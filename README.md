@@ -2,7 +2,7 @@
 <h3 align="center">C# Developer in making from Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="[https://carlyberry.me/portrait-animated-gif](https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyantsiparov&label=Profile%20views&color=0e75b6&style=flat" alt="stoyantsiparov" /> </p>
+<p align="left"> <img src="https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media" /> </p>
 
 - 🌱 I’m currently learning **Software University - SoftUni**
 
