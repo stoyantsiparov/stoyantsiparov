@@ -1,7 +1,6 @@
-[![MasterHead](https://www.canva.com/design/DAFjdmi_miU/fIeL3UYInne9bT_bzqQcSA/edit?utm_content=DAFjdmi_miU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Stoyan Tsiparov</h1>
 <h3 align="center">C# Developer in making from Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src="https://carlyberry.me/portrait-animated-gif">
+<img align="right" alt="Coding" width="400" src="[https://carlyberry.me/portrait-animated-gif](https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyantsiparov&label=Profile%20views&color=0e75b6&style=flat" alt="stoyantsiparov" /> </p>
 
