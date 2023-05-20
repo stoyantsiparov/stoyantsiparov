@@ -1,12 +1,30 @@
-<h1 align="center">Hi 👋, I'm Stoyan Tsiparov</h1>
-<h3 align="center">C# Developer in making from Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+</h1>
 
-<p align="left"> <img src="https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media" /> </p>
+<h3 align='center'>
+  A C# developer in making from Gotse Devchev, Bulgaria.
+</h3>
 
-- 🌱 I’m currently learning **Software University - SoftUni**
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=stoyantsiparov&show_icons=true&count_private=true&theme=darcula" width="350"></a>
+</p>
 
-- 📫 How to reach me **f1renix00@gmail.com**
+<p align='center'>
+  <a href="https://www.linkedin.com/in/radostin-stoychev-53197014a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:radostinv.stoychev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/radrex1">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/8540759/radrex?tab=profile">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://codepen.io/radrex">
+    <img src="https://img.shields.io/badge/CodePen-3D3D3D?style=for-the-badge&logo=CodePen&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
