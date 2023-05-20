@@ -11,11 +11,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=stoyantsiparov&show_icons=true&count_private=true&theme=darcula" width="350"></a>
 </p>
 
+---
+
 <p align='center'>
   <a href="https://stackoverflow.com/users/21890533/stoyan-tsiparov">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
+
+---
 
 <h3 align='center'>💻 Prefered technologies and languages</h3><br/>
 <p align='center'>
