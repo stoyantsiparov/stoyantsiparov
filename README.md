@@ -7,7 +7,7 @@
 </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=stoyantsiparov&show_icons=true&count_private=true&theme=darcula" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=stoyantsiparov&show_icons=true&count_private=true&theme=darcula" width="350"></a>
 </p>
 
 <p align='center'>
