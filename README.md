@@ -23,9 +23,15 @@
 
 <h3 align='center'>💻 Prefered technologies and languages</h3><br/>
 <p align='center'>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <a href="">
+    <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>&nbsp;&nbsp;
 </p>
 <a href="#"><img align="right" alt="Coding" width="1000" src="https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
