@@ -1,8 +1,6 @@
 <h1 align='center'>
   Hello there 👋 I'm Stoyan 👨‍💻
 </h1>
-<a href="#"><img align="right" alt="Coding" width="1000" src="https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-</a>&nbsp;&nbsp;
 <h3 align='center'>
   A C# developer in making from Gotse Devchev, Bulgaria.
 </h3>
@@ -14,6 +12,7 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
+<a href="#"><img align="right" alt="Coding" width="1000" src="https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 ---
 
