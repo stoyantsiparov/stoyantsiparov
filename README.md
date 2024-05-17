@@ -2,7 +2,7 @@
   Hello there 👋 I'm Stoyan 👨‍💻
 </h1>
 <h3 align='center'>
-  A C# developer in making from Gotse Devchev, Bulgaria.
+  A software engineer in making from Gotse Devchev, Bulgaria.
 </h3>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=stoyantsiparov&show_icons=true&count_private=true&theme=darcula" width="350"></a>
@@ -23,7 +23,7 @@
 
 <h3>About me 👻:</h3>
 
-- 💻 Working on becoming a C# developer.
+- 💻 Working on becoming a software engineer.
 - 💬 Ask me anything about my projects!
 - 📫 How to reach me: f1renix00@gmail.com
 - 💡 I'm really passionate about all sorts of technology, trying to learn and try something new everyday.
