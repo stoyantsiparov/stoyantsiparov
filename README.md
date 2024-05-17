@@ -2,7 +2,7 @@
   Hello there 👋 I'm Stoyan 👨‍💻
 </h1>
 <h3 align='center'>
-  A software engineer in making from Gotse Devchev, Bulgaria.
+  Software engineer in making from Gotse Devchev, Bulgaria.
 </h3>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=stoyantsiparov&show_icons=true&count_private=true&theme=darcula" width="350"></a>
