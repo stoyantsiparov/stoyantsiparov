@@ -28,15 +28,16 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://softuni.bg/certificates/details/205228/7e6fa1a7" target="_blank">
-        <img align="center" alt="HTML CSS - January 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/raw/main/assets/133793181/35fdceec-d1e9-49d0-8bdd-850a8fe6d677"/>
+        <img align="center" alt="HTML CSS - January 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/1a31e689-0c27-4e8c-8dd0-8b566abd4c2d"/>
     </a>
     <a href="https://softuni.bg/certificates/details/212340/e14cb43a" target="_blank">
         <img align="center" alt="JS Front-End - February 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/0d662b56-078f-425c-96f8-aab5a6f90d04"/>
     </a>
     <a href="https://softuni.bg/certificates/details/216697/653dec17" target="_blank">
-        <img align="center" alt="MS SQL - May 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/raw/main/assets/133793181/03eb4eab-a74f-45bb-9c71-2170acde1f40"/>
+        <img align="center" alt="MS SQL - May 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/1ff19ee4-12dd-443a-b9a4-1c3ec72619e8"/>
     </a>
 </div>
+
 
 ---
 
