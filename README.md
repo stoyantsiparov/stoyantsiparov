@@ -19,7 +19,7 @@
 | <a href="https://softuni.bg/courses/ms-sql" style="color: #0366d6; text-decoration: none;">MS SQL</a> | <a href="https://softuni.bg/certificates/details/216697/653dec17" style="color: #0366d6; text-decoration: none;">Link</a> |
 | <a href="https://softuni.bg/courses/entity-framework-core" style="color: #0366d6; text-decoration: none;">Entity Framework Core</a> | <a href="" style="color: #0366d6; text-decoration: none;">Incoming</a> |
 
-
+![MS SQL - May 2024 - Certificate](https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/89194342-84db-43f4-950f-27c52730b674)
 
 
 ---
