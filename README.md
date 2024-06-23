@@ -16,8 +16,8 @@
 | <a href="https://softuni.bg/courses/c-sharp-oop" style="color: #0366d6; text-decoration: none;">C# OOP</a> | <a href="https://softuni.bg/certificates/details/195582/34667e15" style="color: #0366d6; text-decoration: none;">Link</a> |
 | <a href="https://softuni.bg/courses/html-and-css" style="color: #0366d6; text-decoration: none;">HTML & CSS</a> | <a href="https://softuni.bg/certificates/details/205228/7e6fa1a7" style="color: #0366d6; text-decoration: none;">Link</a> |
 | <a href="https://softuni.bg/courses/js-front-end" style="color: #0366d6; text-decoration: none;">JS Front-End</a> | <a href="https://softuni.bg/certificates/details/212340/e14cb43a" style="color: #0366d6; text-decoration: none;">Link</a> |
-| <a href="https://softuni.bg/courses/ms-sql" style="color: #0366d6; text-decoration: none;">MS SQL</a> | <a href="https://softuni.bg/certificates/details/220000/abcdef12" style="color: #0366d6; text-decoration: none;">Link</a> |
-| <a href="https://softuni.bg/courses/entity-framework-core" style="color: #0366d6; text-decoration: none;">Entity Framework Core</a> | <a href="https://softuni.bg/certificates/details/225000/ghijkl34" style="color: #0366d6; text-decoration: none;">Link</a> |
+| <a href="https://softuni.bg/courses/ms-sql" style="color: #0366d6; text-decoration: none;">MS SQL</a> | <a href="https://softuni.bg/certificates/details/216697/653dec17" style="color: #0366d6; text-decoration: none;">Link</a> |
+| <a href="https://softuni.bg/courses/entity-framework-core" style="color: #0366d6; text-decoration: none;">Entity Framework Core</a> | <a href="" style="color: #0366d6; text-decoration: none;">Incoming</a> |
 
 </div>
 
