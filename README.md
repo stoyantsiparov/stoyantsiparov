@@ -16,8 +16,8 @@
 | <a href="https://softuni.bg/courses/c-sharp-oop" style="color: #0366d6; text-decoration: none;">C# OOP</a> | <a href="https://softuni.bg/certificates/details/195582/34667e15"><img src="https://via.placeholder.com/150" alt="Certificate" width="100"></a> |
 | <a href="https://softuni.bg/courses/html-and-css" style="color: #0366d6; text-decoration: none;">HTML & CSS</a> | <a href="https://softuni.bg/certificates/details/205228/7e6fa1a7"><img src="https://via.placeholder.com/150" alt="Certificate" width="100"></a> |
 | <a href="https://softuni.bg/courses/js-front-end" style="color: #0366d6; text-decoration: none;">JS Front-End</a> | <a href="https://softuni.bg/certificates/details/212340/e14cb43a"><img src="https://via.placeholder.com/150" alt="Certificate" width="100"></a> |
-| <a href="https://softuni.bg/courses/ms-sql" style="color: #0366d6; text-decoration: none;">MS SQL</a> | <a href="https://softuni.bg/certificates/details/220000/abcdef12"><img src="https://via.placeholder.com/150" alt="Certificate" width="100"></a> |
-| <a href="https://softuni.bg/courses/entity-framework-core" style="color: #0366d6; text-decoration: none;">Entity Framework Core</a> | <a href="https://softuni.bg/certificates/details/225000/ghijkl34"><img src="![MS SQL - May 2024 - Certificate](https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/89194342-84db-43f4-950f-27c52730b674)" alt="Certificate" width="100"></a> |
+| <a href="https://softuni.bg/courses/ms-sql" style="color: #0366d6; text-decoration: none;">MS SQL</a> | <a href="https://softuni.bg/certificates/details/220000/abcdef12"><img src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/89194342-84db-43f4-950f-27c52730b674" alt="MS SQL Certificate" width="100"></a> |
+| <a href="https://softuni.bg/courses/entity-framework-core" style="color: #0366d6; text-decoration: none;">Entity Framework Core</a> | <a href="https://softuni.bg/certificates/details/225000/ghijkl34"><img src="https://via.placeholder.com/150" alt="Certificate" width="100"></a> |
 
 </div>
 
