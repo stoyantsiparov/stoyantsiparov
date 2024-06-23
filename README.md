@@ -7,55 +7,40 @@
 ---
 
 <h3>✍🏻 Education</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2023 - Present) - C# .NET Web Developer 👇 <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - Present) - C# .NET Web Developer 👇 <br><br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="flex: 1;">
-        <a href="https://softuni.bg/certificates/details/170390/aae80e3d" target="_blank">
-            <img align="center" alt="Programming Basics - March 2023 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/504ada39-0156-4960-9908-7444cbbe7948"/>
-        </a>
-    </div>
-
-    <div style="flex: 1;">
-        <a href="https://softuni.bg/certificates/details/179579/58509358" target="_blank">
-            <img align="center" alt="Programming Fundamentals with C# - May 2023 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/9679b7a1-a26f-4f62-9281-5737b5f853ee"/>
-        </a>
-    </div>
-
-    <div style="flex: 1;">
-        <a href="https://softuni.bg/certificates/details/188349/1635f6e7" target="_blank">
-            <img align="center" alt="C# Advanced - September 2023 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/9f0a9f77-1ee8-4e78-9087-50dc43e340f3"/>
-        </a>
-    </div>
-
-    <div style="flex: 1;">
-        <a href="https://softuni.bg/certificates/details/195582/34667e15" target="_blank">
-            <img align="center" alt="C# OOP - October 2023 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/70bb564a-5d66-42a4-bb8d-270bf345a3ad"/>
-        </a>
-    </div>
+    <a href="https://softuni.bg/certificates/details/216697/653dec17" target="_blank">
+        <img align="center" alt="asp-dotnet-adv" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-asp-dotnet-advanced.png"/>
+    </a>
+    <a href="https://softuni.bg/Certificates/Details/206844/0e0581af" target="_blank">
+        <img align="center" alt="asp-dotnet" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-asp-dotnet-fundamentals.png"/>
+    </a>
+    <a href="https://softuni.bg/certificates/details/185603/6810fdbc" target="_blank">
+        <img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-mssql-4.png"/>
+    </a>
+    <a href="https://softuni.bg/certificates/details/181073/faea0804" target="_blank">
+        <img align="center" alt="csharp-oop" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-oop-3.png"/>
+    </a>
 </div>
 
 <br><br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="flex: 1;">
-        <a href="https://softuni.bg/certificates/details/205228/7e6fa1a7" target="_blank">
-            <img align="center" alt="HTML CSS - January 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/raw/main/assets/133793181/35fdceec-d1e9-49d0-8bdd-850a8fe6d677"/>
-        </a>
-    </div>
-
-    <div style="flex: 1;">
-        <a href="https://softuni.bg/certificates/details/212340/e14cb43a" target="_blank">
-            <img align="center" alt="JS Front-End - February 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/0d662b56-078f-425c-96f8-aab5a6f90d04"/>
-        </a>
-    </div>
-
-    <div style="flex: 1;">
-        <a href="https://softuni.bg/certificates/details/216697/653dec17" target="_blank">
-            <img align="center" alt="MS SQL - May 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/raw/main/assets/133793181/03eb4eab-a74f-45bb-9c71-2170acde1f40"/>
-        </a>
-    </div>
+    <a href="https://softuni.bg/certificates/details/173533/61b8e22b" target="_blank">
+        <img align="center" alt="csharp-advanced" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-advanced-2.png"/>
+    </a>
+    <a href="https://softuni.bg/certificates/details/167055/7b00b8e6" target="_blank">
+        <img align="center" alt="csharp-fundamentals" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-fundamentals-1.png"/>
+    </a>
+    <a href="https://softuni.bg/Certificates/Details/145896/699f5318" target="_blank">
+        <img align="center" alt="csharp-basics" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-basics.png"/>
+    </a>
+    <a href="https://softuni.bg/Certificates/Details/198822/045ad402" target="_blank">
+        <img align="center" alt="it-career-booster" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/it-career-booster.png"/>
+    </a>
 </div>
+
 
 
 
