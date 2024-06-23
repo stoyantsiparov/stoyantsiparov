@@ -3,6 +3,23 @@
 </h1>
 <h3 align='center'>
   Software engineer in making from Gotse Devchev, Bulgaria.
+   <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+  </style>
 <table>
   <tr>
     <th>Programming Languages</th>
