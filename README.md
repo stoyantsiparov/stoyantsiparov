@@ -7,7 +7,7 @@
 ---
 
 <h3>✍🏻 Education</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - Present) - C# .NET Web Developer 👇 <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2023 - Present) - C# .NET Path 👇 <br><br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://softuni.bg/certificates/details/170390/aae80e3d" target="_blank">
@@ -24,7 +24,7 @@
     </a>
 </div>
 
-<br><br>
+<br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://softuni.bg/certificates/details/205228/7e6fa1a7" target="_blank">
