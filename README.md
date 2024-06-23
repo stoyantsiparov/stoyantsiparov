@@ -8,12 +8,12 @@
 
 | **Course**                                                 | **Link**                                                                 |
 |------------------------------------------------------------|--------------------------------------------------------------------------|
-| <a href="https://softuni.bg/courses/programming-basics" > Programming Basics with C# </a>                                                                                                                                        |<a href="https://softuni.bg/certificates/details/170390/aae80e3d">Link</a>|                          
-| <a href="https://softuni.bg/courses/programming-fundamentals-csharp-java-js-python"> Programming Fundamentals </a>                                                                                                               |<a href="https://softuni.bg/certificates/details/179579/58509358">Link</a>|   
-| <a href="https://softuni.bg/courses/csharp-advanced"> C# Advanced </a>                                                                                                                                                           |<a href="https://softuni.bg/certificates/details/188349/1635f6e7">Link</a>|   
-| <a href="https://softuni.bg/courses/c-sharp-oop"> C# OOP </a>                                                                                                                                                                    |<a href="https://softuni.bg/certificates/details/195582/34667e15">Link</a>| 
-| <a href="https://softuni.bg/courses/html-and-css" > HTML & CSS </a>                                                                                                                                                              |<a href="https://softuni.bg/certificates/details/205228/7e6fa1a7">Link</a>|                          
-| <a href="https://softuni.bg/courses/js-front-end"> JS Front-End </a>                                                                                                                                                             |<a href="https://softuni.bg/certificates/details/212340/e14cb43a">Link</a>|  
+| <a href="https://softuni.bg/courses/programming-basics" style="color: #0366d6; text-decoration: none;">Programming Basics with C#</a> | <a href="https://softuni.bg/certificates/details/170390/aae80e3d" style="color: #0366d6; text-decoration: none;">Link</a> |
+| <a href="https://softuni.bg/courses/programming-fundamentals-csharp-java-js-python" style="color: #0366d6; text-decoration: none;">Programming Fundamentals</a> | <a href="https://softuni.bg/certificates/details/179579/58509358" style="color: #0366d6; text-decoration: none;">Link</a> |
+| <a href="https://softuni.bg/courses/csharp-advanced" style="color: #0366d6; text-decoration: none;">C# Advanced</a> | <a href="https://softuni.bg/certificates/details/188349/1635f6e7" style="color: #0366d6; text-decoration: none;">Link</a> |
+| <a href="https://softuni.bg/courses/c-sharp-oop" style="color: #0366d6; text-decoration: none;">C# OOP</a> | <a href="https://softuni.bg/certificates/details/195582/34667e15" style="color: #0366d6; text-decoration: none;">Link</a> |
+| <a href="https://softuni.bg/courses/html-and-css" style="color: #0366d6; text-decoration: none;">HTML & CSS</a> | <a href="https://softuni.bg/certificates/details/205228/7e6fa1a7" style="color: #0366d6; text-decoration: none;">Link</a> |
+| <a href="https://softuni.bg/courses/js-front-end" style="color: #0366d6; text-decoration: none;">JS Front-End</a> | <a href="https://softuni.bg/certificates/details/212340/e14cb43a" style="color: #0366d6; text-decoration: none;">Link</a> |
 
 </div>
 
