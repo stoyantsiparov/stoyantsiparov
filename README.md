@@ -3,13 +3,15 @@
 </h1>
 <h3 align='center'>
   Software engineer in making from Gotse Devchev, Bulgaria.
+  <hr>
+  <hr>
 <table>
   <tr>
     <th>Programming Languages</th>
   </tr>
   <tr>
     <td>
-      <table>
+      <table align='center'>
         <tr>
           <th>Course</th>
           <th>Link</th>
