@@ -3,7 +3,9 @@
 </h1>
 <h3 align='center'>
   Software engineer in making from Gotse Devchev, Bulgaria.
-  <hr>
+
+---
+
 <div align="center">
 
 | **Course**                                                 | **Link**                                                                 |
