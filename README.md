@@ -36,6 +36,9 @@
     <a href="https://softuni.bg/certificates/details/216697/653dec17" target="_blank">
         <img align="center" alt="MS SQL - May 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/1ff19ee4-12dd-443a-b9a4-1c3ec72619e8"/>
     </a>
+  <a href="https://softuni.bg/certificates/details/221083/bc633115" target="_blank">
+        <img align="center" alt="Entity Framework Core - June 2024 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/1ff19ee4-12dd-443a-b9a4-1c3ec72619e8"/>
+    </a>
 </div>
 
 
