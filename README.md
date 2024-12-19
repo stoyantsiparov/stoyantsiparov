@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2023 - Present) - C# IT Path 👇 <br><br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <a href="https://softuni.bg/certificates/details/179579/58509358" target="_blank">
+    <a href="https://softuni.bg/certificates/details/232753/ec380510" target="_blank">
         <img align="center" alt="ASP.NET Advanced - October 2024 - Certificate" width="150px" src="https://github.com/user-attachments/assets/b7bbd82f-c297-4edb-a1ed-c34d45756500"/>
     </a>
   <a href="https://softuni.bg/certificates/details/228306/88b1edbd" target="_blank">
