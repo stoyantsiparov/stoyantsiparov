@@ -11,7 +11,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://softuni.bg/certificates/details/179579/58509358" target="_blank">
-        <img align="center" alt="Programming Fundamentals with C# - May 2023 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/9679b7a1-a26f-4f62-9281-5737b5f853ee"/>
+        <img align="center" alt="ASP.NET Advanced - October 2024 - Certificate" width="150px" src="https://github.com/user-attachments/assets/64f99101-0119-4412-8468-525fb3562e57"/>
     </a>
     <a href="https://softuni.bg/certificates/details/188349/1635f6e7" target="_blank">
         <img align="center" alt="C# Advanced - September 2023 - Certificate" width="150px" src="https://github.com/stoyantsiparov/stoyantsiparov/assets/133793181/9f0a9f77-1ee8-4e78-9087-50dc43e340f3"/>
