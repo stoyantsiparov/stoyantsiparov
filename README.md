@@ -7,7 +7,7 @@
 ---
 
 <h3>✍🏻 Education</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2023 - Present) - C# IT Path 👇 <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU - C# IT Path 👇 <br><br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://softuni.bg/certificates/details/232753/ec380510" target="_blank">
