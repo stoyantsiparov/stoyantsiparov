@@ -2,7 +2,7 @@
   Hello there 👋 I'm Stoyan 👨‍💻
 </h1>
 <h3 align='center'>
-  Software engineer in making from Gotse Devchev, Bulgaria.
+  Software engineer in making from Sofia, Bulgaria.
 
 ---
 
