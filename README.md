@@ -48,5 +48,5 @@
 
 - 💻 Working on becoming a software engineer.
 - 💬 Ask me anything about my projects!
-- 📫 How to reach me: f1renix00@gmail.com
+- 📫 How to reach me: stoian_ciparov@abv.bg
 - 💡 I'm really passionate about all sorts of technology, trying to learn and try something new everyday.
